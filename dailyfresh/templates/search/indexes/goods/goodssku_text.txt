@@ -1,0 +1,6 @@
+#goods + sku +_text.txt
+#model + class + _text.txt
+
+{{ object.name }} # name
+{{ object.desc }} # desc
+{{ object.goods.detail }} # detail
